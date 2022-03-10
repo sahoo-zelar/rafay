@@ -1,0 +1,6 @@
+kind: Namespace
+apiVersion: v1
+metadata:
+  name: sahoo-repo  
+  labels:
+    name: sahoo-repo
